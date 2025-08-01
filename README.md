@@ -19,10 +19,10 @@ Each paper is summarized using the following structure:
 
 ## Logs
 
-| Date       | Title                                                                                                       | Link |
-|------------|-------------------------------------------------------------------------------------------------------------|------|
-| 2025-08-01 | [Revival with Voice: Multi-modal Controllable Text-to-Speech Synthesis](./2025-08-01-Revival-with-Voice.md) | [arXiv](https://arxiv.org/pdf/2505.18972) |
-| 2025-08-02 | ...                                                                                                         | ...  |
+| Date       | Title                                                                                                     | Link |
+|------------|-----------------------------------------------------------------------------------------------------------|------|
+| 2025-08-01 | [Revival with Voice: Multi-modal Controllable Text-to-Speech Synthesis](./25-08-01-Revival-with-Voice.md) | [arXiv](https://arxiv.org/pdf/2505.18972) |
+| 2025-08-02 | ...                                                                                                       | ...  |
 
 ---
 
